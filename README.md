@@ -1,5 +1,8 @@
 # Validasi-Input-Dua-Sisi-Error-Handling
 # Dinanda
+Yuwanda Surya jelita
+Nabila Sheyra wati
+Dimas Supriyadi
 
 ## BabyBite 👶🍎
 
